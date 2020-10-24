@@ -1,0 +1,16 @@
+Added Component: Designator=PINS1(PIN_ROW)
+Added Component: Designator=PS1(Pressure_Footprint)
+Added Pin To Net: NetName=NetPINS1_1 Pin=PINS1-1
+Added Pin To Net: NetName=NetPINS1_1 Pin=PS1-1
+Added Net: Name=NetPINS1_1
+Added Pin To Net: NetName=NetPINS1_2 Pin=PINS1-2
+Added Pin To Net: NetName=NetPINS1_2 Pin=PS1-2
+Added Net: Name=NetPINS1_2
+Added Pin To Net: NetName=NetPINS1_3 Pin=PINS1-3
+Added Pin To Net: NetName=NetPINS1_3 Pin=PS1-3
+Added Net: Name=NetPINS1_3
+Added Pin To Net: NetName=NetPINS1_4 Pin=PINS1-4
+Added Pin To Net: NetName=NetPINS1_4 Pin=PS1-4
+Added Net: Name=NetPINS1_4
+Added Member To Class: ClassName=Sheet1 Member=Component PINS1 MCU_PINS
+Added Member To Class: ClassName=Sheet1 Member=Component PS1 Pres_Sensor
